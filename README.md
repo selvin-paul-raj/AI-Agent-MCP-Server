@@ -21,11 +21,10 @@ A scalable, production-grade AI system that connects multiple dynamic agents int
 
 ## 📐 Architecture
 
-```
+
+<img src="https://github.com/selvin-paul-raj/Modular-AI-Agent-MCP-Server/blob/sample/flow_diagram.svg">
 
 
-
-````
 
 ---
 
